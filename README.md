@@ -18,3 +18,4 @@ Ejemplo de comandos de prueba con el modelo “dolphincoder:latest”, este se p
 python secagentV4_nmap.py "Verifica los servicios web de 10.10.1.129"
 <img width="827" height="564" alt="image" src="https://github.com/user-attachments/assets/e8318ba3-7ecd-4fd1-b7e7-769af9e5d9d0" />
 <img width="827" height="556" alt="image" src="https://github.com/user-attachments/assets/99f3ec94-fd17-4b1b-bc3b-574ee2da9375" />
+
